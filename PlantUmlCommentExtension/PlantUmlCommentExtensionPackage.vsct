@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable">
+
+	<Extern href="stdidcmd.h"/>
+	<Extern href="vsshlids.h"/>
+
+	<Commands package="guidPlantUmlCommentExtensionPackage">
+		<Groups>
+			<Group guid="guidPlantUmlCommentExtensionPackageCmdSet" id="ContextMenuGroup" priority="0x0600">
+				<Parent guid="guidSHLMainMenu" id="IDM_VS_CTXT_CODEWIN"/>
+			</Group>
+		</Groups>
+
+		<Buttons>
+			<Button guid="guidPlantUmlCommentExtensionPackageCmdSet" id="cmdProcessPlantUml" priority="0x0100" type="Button">
+				<Parent guid="guidPlantUmlCommentExtensionPackageCmdSet" id="ContextMenuGroup"/>
+				<Strings>
+					<ButtonText>Process PlantUML</ButtonText>
+				</Strings>
+			</Button>
+		</Buttons>
+	</Commands>
+
+	<Symbols>
+		<GuidSymbol name="guidPlantUmlCommentExtensionPackage" value="{97f8a5ee-b47f-4da9-929f-b826f715bc81}" />
+
+		<!-- Aquí va el GuidSymbol del CommandSet -->
+		<GuidSymbol name="guidPlantUmlCommentExtensionPackageCmdSet" value="{37381321-2386-4d05-8aba-a9088e66fed9}">
+			<IDSymbol name="ContextMenuGroup" value="0x1020" />
+			<IDSymbol name="cmdProcessPlantUml" value="0x0100" />
+		</GuidSymbol>
+
+	</Symbols>
+</CommandTable>

@@ -1,0 +1,144 @@
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -tsvg -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -tsvg -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -tsvg -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 
+Java Path: java
+PlantUML JAR: D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar
+Arguments: -jar "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Jars\plantuml-1.2025.0.jar" "D:\Proyectos Visual Studio\VS2022\ViewPlantUmlComments\Out\plantuml.txt" -DPLANTUML_LIMIT_SIZE=8192 -dpi 300 -charset utf-8
+Exit Code: 0
+Standard Output: 
+Standard Error: 

@@ -1,0 +1,14 @@
+.vs/
+*.vsidx
+*.user
+*.suo
+*.cache
+bin/
+obj/
+demo/
+Jars/
+*.user
+*.suo
+*.cache
+.vscode/
+.idea/
